@@ -1,5 +1,5 @@
 # auto-sqli-web-forum
-<h1>Auto sqli web forum</h1>
+
 <br>
 <h3>Requirements:</h3>
 <p>requests</p>
